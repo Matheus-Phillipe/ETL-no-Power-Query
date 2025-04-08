@@ -26,6 +26,9 @@ Atenderemos a uma demanda da Olist, uma solução de vendas de e-commerce que no
 * Gerenciando parâmetros
 * Organizando diretórios
 
+![PWQR](https://github.com/user-attachments/assets/2eb1cd4b-b1f4-4c19-957e-c1f1e0fd63f0)
+
+
 ### Finalizando o tratamento
 
 * Renomeando e removendo consultas
